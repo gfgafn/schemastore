@@ -40,11 +40,14 @@
               "rls",
               "clippy",
               "miri",
-              "rust-src",
+              "rust",
               "rust-analysis",
-              "rust-mingw",
-              "llvm-tools-preview",
-              "rustc-dev"
+              "llvm-tools",
+              "rustc-docs",
+              "rustc-dev",
+              "rust-analyzer",
+              "reproducible-artifacts",
+              "rust-docs-json"
             ],
             "x-taplo": {
               "docs": {
